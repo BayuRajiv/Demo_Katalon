@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC 03 Add User Failed with User Role not selected</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>2c738ddf-1eae-4a19-b893-bc6165011172</testCaseGuid>
-</TestCaseEntity>

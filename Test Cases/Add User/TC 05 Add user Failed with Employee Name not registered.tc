@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC 05 Add user Failed with Employee Name not registered</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>4a1dd427-bced-4312-918a-2662c94b3681</testCaseGuid>
-</TestCaseEntity>
